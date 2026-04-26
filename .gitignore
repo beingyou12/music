@@ -2,10 +2,14 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+deam_melspecs/
+deam_windows_cache/
+.idea/
 # C extensions
 *.so
-
+*.bak*
+*.py
+*.keras
 # Distribution / packaging
 .Python
 build/
